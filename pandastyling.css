@@ -1,0 +1,67 @@
+html{
+
+	font-size: 10 px;
+	font-family: "Open Sans", sans-serif;
+	
+}
+
+h1 {
+
+	margin: 0;
+  	padding: 20px 0;    
+  	color: #00539F;
+	font-size: 60 px;
+	text-align: center;
+
+}
+
+body {
+
+	width: 600 px;
+	padding: 20 px 20 px 20 px 20 px;
+	margin: 20;
+	border: 5 px solid black;
+
+}
+
+p, li {
+
+	font-size: 16 px;
+	line-height: 2;
+	letter-spacing: 1 px;
+	
+	width: 500 px;
+	border: 1 px solid black;
+
+}
+
+#type_people {
+
+	color: #a903fc;
+	border: 1 px grey;
+
+}
+
+.funpeeps {
+
+	color: #fc035e;
+	border: 1 px red;
+
+}
+
+
+img {
+
+	border: 1 px solid #ddd;
+	border-radius: 7%;
+	padding: 50 px;
+	width: 1500 px;
+	display: block;
+	margin: 0 auto;
+}
+
+img:hover {
+
+  box-shadow: 0 0 2 px 1 px rgba(0, 140, 186, 0.5);
+
+}
